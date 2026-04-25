@@ -69,7 +69,8 @@ download-zip: URL1 URL2 URL3
 **Examples:**
 
 ```
-download-zip: https://example.com/file.zip
+download-zip:
+https://play.google.com/store/apps/details?id=com.psiphon3.subscription
 ```
 
 ```
